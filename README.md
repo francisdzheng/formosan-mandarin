@@ -1,4 +1,4 @@
-# Amis-Mandarin Dataset
+# Formosan-Mandarin Dataset
 
 The dataset introduced in "Improving Low-Resource Machine Translation for Formosan Languages Using Bilingual Lexical Resources" can be found [here](https://drive.google.com/drive/folders/1PIzB292l9TVAnIPI5Dp8zpkOsUPxyICr?usp=share_link).
 
